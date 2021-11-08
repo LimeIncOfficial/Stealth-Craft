@@ -21,8 +21,8 @@
   #### 
   1. Server initializes but with a special added protocol (default `666`) & another (default `210`). The latter is if you want to use the mc server as the c2 which requires your payload to have a mc client with the correct version number (`1.17.1`). 
   2. When implant initiates handshake with server it recognizes your chosen protocol. Regular players use 756 to connect.
-          a. If `666` or `IMPLANT_PROTOCOL` defined in `MinecraftServer.java` the server forwards to your local c2 default `4444`
-          b. Else if protocol `210` is used or `Stealth_C2_PROTOCOL` the implant connects to the game server directly and isn't forwarded. Spawning as Spectator in the world, constantly reading chat for `%%%[Command Parameter]` 
+  a. If `666` or `IMPLANT_PROTOCOL` defined in `MinecraftServer.java` the server forwards to your local c2 default `4444`
+  b. Else if protocol `210` is used or `Stealth_C2_PROTOCOL` the implant connects to the game server directly and isn't forwarded. Spawning as Spectator in the world, constantly reading chat for `%%%[Command Parameter]` 
  
 # What to do 🛠️
   ####

@@ -8,7 +8,7 @@
 
 # What is It 🤔
 
-#### A look into how common digital infastructure can be hijacked and used to mask malicious activity. Stealth Craft is still a 100% functional minecraft server (based on Minestom) that acts as a redirector for implant traffic to your desired c2 server. It also acts as a standalone c2 server. It can also be used as a standalone reverse proxy when configured correctly.
+#### A look into how common digital infastructure can be hijacked and used to mask malicious activity. Stealth Craft is still a 100% functional minecraft server (based on Minestom) that acts as a redirector for implant traffic to your desired c2 server. It also acts as a standalone c2 server ~~(still in the works)~~.
 
 <h4 align="center">
 <a href="https://github.com/LimeIncOfficial/Stealth-Craft"><img src="https://github.com/LimeIncOfficial/Stealth-Craft/blob/main/assets/Diagram.drawio.png" width="500px" alt="diagram"></a>
